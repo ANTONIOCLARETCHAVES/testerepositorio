@@ -1,3 +1,3 @@
-Meu primeiro projeto GIT.
+Meu primeiro projeto GIT, alterado e atualizado.
 
-Alteração no README para descrever melhor meu sistema.
+
